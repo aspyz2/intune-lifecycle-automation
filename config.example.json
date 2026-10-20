@@ -1,0 +1,8 @@
+{
+  "TenantId": "00000000-0000-0000-0000-000000000000",
+  "ClientId": "00000000-0000-0000-0000-000000000000",
+  "CertificateThumbprint": "0000000000000000000000000000000000000000",
+  "ApprovedDeviceGroupId": "00000000-0000-0000-0000-000000000000",
+  "DefaultGroupTag": "CORP-STANDARD",
+  "LogPath": "./logs/lifecycle.log"
+}

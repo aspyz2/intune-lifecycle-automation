@@ -1,0 +1,9 @@
+# Never commit real configuration, certificates or logs
+config.json
+*.pfx
+*.cer
+*.pem
+logs/
+*.log
+*.csv
+!examples/*.example.csv
